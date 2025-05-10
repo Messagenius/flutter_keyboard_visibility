@@ -3,6 +3,7 @@ description: A common platform interface for the flutter_keyboard_visibility plu
 version: 2.0.0
 homepage: https://github.com/MisterJimson/flutter_keyboard_visibility
 repository: https://github.com/MisterJimson/flutter_keyboard_visibility
+publish_to: none
 
 environment:
   sdk: '>=2.12.0 <4.0.0'
